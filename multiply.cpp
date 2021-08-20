@@ -5,6 +5,6 @@ int main()
 {
     int a, b;
     cin >> a >> b;
-    cout << "The multiplication is: " << a*b << endl;
+    cout << "The result of multiplication is: " << a*b << endl;
     return 0;
 }
